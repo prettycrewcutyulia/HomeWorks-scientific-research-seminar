@@ -1,0 +1,11 @@
+html {
+    background-image: url("../assets/background_cat.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
